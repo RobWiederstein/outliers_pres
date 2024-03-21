@@ -60,7 +60,7 @@ library(kableExtra)
 |  |  |
 |:------|:-------|
 | **Princess Fiona: ** | "What kind of knight are you?" |
-| **Shreck:** |"One of a kind."|
+| **Shrek:** |"One of a kind."|
 :::
 
 ## Based Upon
