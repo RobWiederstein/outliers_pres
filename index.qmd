@@ -575,9 +575,10 @@ knitr::include_graphics("./img/shreck.gif")
 
 ## Links
 
-- Add repo for presentation
-- Add repo for dashboard
-- Add link to dashboard
+- [Outlier Analysis Presentation](https://robwiederstein.github.io/outliers_pres/#/title-slide)
+- [Outlier Analysis Repository](https://github.com/RobWiederstein/outliers_pres)
+- [Outlier Analysis Dashboard]()
+- [Outlier Analysis Dashboard Repository]()
 
 # Bibliography
 
