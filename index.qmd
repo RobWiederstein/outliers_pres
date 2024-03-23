@@ -1,5 +1,5 @@
 ---
-title: "Outliers Analysis"
+title: "Outlier Analysis"
 author: "Rob Wiederstein"
 bibliography: Outlier_analysis.bib
 csl: ieee.csl
@@ -570,15 +570,15 @@ scagnostics::scagnostics(mtcars[, c(1:3)])
 
 
 ```{r shreck-gif}
-knitr::include_graphics("./img/shreck.gif")
+knitr::include_graphics("./img/shrek.gif")
 ```
 
 ## Links
 
 - [Outlier Analysis Presentation](https://robwiederstein.github.io/outliers_pres/#/title-slide)
 - [Outlier Analysis Repository](https://github.com/RobWiederstein/outliers_pres)
-- [Outlier Analysis Dashboard]()
-- [Outlier Analysis Dashboard Repository]()
+- [Outlier Analysis Dashboard](https://rob-wiederstein.shinyapps.io/outliers_dash/)
+- [Outlier Analysis Dashboard Repository](https://github.com/RobWiederstein/outliers_dash)
 
 # Bibliography
 
