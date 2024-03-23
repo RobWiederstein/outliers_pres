@@ -34,5 +34,5 @@ Distributed under the MIT License. See [`LICENSE.md`]("https://github.com/RobWie
 
 ## Contact
 
-Project Link: [https://github.com/RobWiederstein/outliers_dash](https://github.com/RobWiederstein/outliers_dash)
+Project Link: [https://github.com/RobWiederstein/outliers_pres/tree/main](https://github.com/RobWiederstein/outliers_pres/tree/main)
 
