@@ -2,7 +2,9 @@
 <p align="center">
 <a href="https://robwiederstein.github.io/outliers_pres/"><img src="./img/home_page.png" width=600 /></a>
 </p>
+
 ---
+
 # outliers_pres
 
 The `outliers_pres` is a quarto presentation on outlier analysis. The presentation was accompanied with a release of an interactive dashboard illustrating the concepts.  The dashboard is available online [here](https://rob-wiederstein.shinyapps.io/outliers_dash/).
