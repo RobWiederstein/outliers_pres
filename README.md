@@ -24,7 +24,7 @@ Don't forget to give the project a star! Thanks again!
 
 ## License 
 
-Distributed under the MIT License. See [`LICENSE.md`]("./LICENSE.md") for more information.
+Distributed under the MIT License. See [`LICENSE.md`]("https://github.com/RobWiederstein/outliers_pres/blob/main/LICENSE.md") for more information.
 
 ## Acknowledgements
 
